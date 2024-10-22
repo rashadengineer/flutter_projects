@@ -5,6 +5,7 @@ import 'package:ticket_app/screens/search/search_screen.dart';
 import 'package:ticket_app/screens/ticket/ticket_screen.dart';
 
 class BottomNavBar extends StatefulWidget {
+  // rashad kanka
   const BottomNavBar({super.key});
 
   @override
