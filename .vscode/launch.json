@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter Web Debug on Chrome with 8080 Port",
+            "type": "dart",
+            "request": "launch",
+            "program": "${workspaceFolder}/lib/main.dart",
+            "args": [
+                "--web-renderer=html",
+                "--web-port=8080"
+            ],
+            "deviceId": "chrome",
+            "toolArgs": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
